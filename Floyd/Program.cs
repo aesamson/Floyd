@@ -11,22 +11,9 @@ namespace Floyd
 {
     internal class Program
     {
-        //delegate void P(); 
-
         private static void Main(string[] args)
         {
             //var path = GetPathMattr();
-
-
-            //P p = Console.WriteLine; // P объявлен как delegate void P(); 
-            //foreach (var i in new[] { 1, 2, 3, 4 })
-            //{
-            //    p += () => Console.Write(i);
-            //}
-            //p();
-
-            //GC.Collect();
-            //Console.WriteLine(GC.GetTotalMemory(true));
 
             demo();
         }
